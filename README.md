@@ -8,7 +8,7 @@ Hello, I am Assadujjaman Murad.I am a highly skilled and motivated front-end dev
 
 
 # Technology
+![rsz_react-dark-removebg-preview](https://github.com/assadujjaman112/assadujjaman112/assets/138320254/df9fb1ac-f66b-4697-9a93-fd1dbc1c740b)
 
-![rsz_react-dark](https://github.com/assadujjaman112/assadujjaman112/assets/138320254/1b546c72-a2ab-455c-a355-d1a1e5a2c42f)
 
 
