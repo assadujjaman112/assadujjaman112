@@ -8,7 +8,8 @@ Hello, I am Assadujjaman Murad.I am a highly skilled and motivated front-end dev
 
 
 # Technology
-![rsz_react-dark-removebg-preview](https://github.com/assadujjaman112/assadujjaman112/assets/138320254/df9fb1ac-f66b-4697-9a93-fd1dbc1c740b)
+![Uploading React-Dark-removebg-preview.png…]()
+
 
 
 
