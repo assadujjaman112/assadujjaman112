@@ -1,3 +1,4 @@
+![rsz_react-light](https://github.com/assadujjaman112/assadujjaman112/assets/138320254/1443db2b-13df-43d4-a95e-05c51660da6f)
 
 ![Assadujjaman Murad](https://github.com/assadujjaman112/assadujjaman112/assets/138320254/25af2636-3c65-4b4e-a058-82698c42d342)
 
@@ -8,5 +9,5 @@ Hello, I am Assadujjaman Murad.I am a highly skilled and motivated front-end dev
 
 # Technology
 
-![React-Light](https://github.com/assadujjaman112/assadujjaman112/assets/138320254/574fa989-900e-43f7-83f1-991f2c6de003)
-![TailwindCSS-Dark](https://github.com/assadujjaman112/assadujjaman112/assets/138320254/8c34f5ad-f2ca-4875-bb4f-a9fc96b764ad)
+![rsz_react-light](https://github.com/assadujjaman112/assadujjaman112/assets/138320254/ecd33320-077e-4d6e-8b95-1f30d9cd35bf)
+
